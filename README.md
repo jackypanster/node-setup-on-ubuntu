@@ -21,5 +21,5 @@ npm -v
 + Configure registry
 
 ```bash
-npm install --registry http://registry.cnpmjs.org
+sudo npm install --registry http://registry.cnpmjs.org
 ```
