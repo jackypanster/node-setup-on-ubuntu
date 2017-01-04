@@ -21,5 +21,7 @@ npm -v
 + Configure registry
 
 ```bash
-sudo npm install --registry http://registry.cnpmjs.org
+npm install --registry http://registry.cnpmjs.org
+# or
+npm --registry=https://registry.npm.taobao.org install
 ```
