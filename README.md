@@ -1,14 +1,14 @@
 + Download the node.js dist
 
 ```bash
-wget https://nodejs.org/dist/v7.3.0/node-v7.3.0-linux-x64.tar.gz
+wget https://nodejs.org/dist/v7.7.4/node-v7.7.4-linux-x64.tar.gz
 ```
 
 + Install the node.js binary
 
 ```bash
 cd /usr/local
-sudo tar --strip-components 1 -xzf /home/ubuntu/node-v7.3.0-linux-x64.tar.gz
+sudo tar --strip-components 1 -xzf /home/ubuntu/node-v7.7.4-linux-x64.tar.gz
 ```
 
 + Verify
